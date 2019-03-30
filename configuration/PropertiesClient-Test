@@ -1,0 +1,3 @@
+authToken=<client auth token>
+sender=client
+receiver=<receiver username>
